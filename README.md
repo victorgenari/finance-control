@@ -1,15 +1,13 @@
 <img src="https://github.com/victorgenari/finance-control/blob/main/src/assets/images/projectImg.jpg">
 
-# Projeto 'Cadastro de Pacientes' em React.js:
+# Projeto 'Finance Control' em React.js:
 
-Este projeto foi desenvolvido simulando um sistema para cadastro de pacientes. Para conseguir utilizar a aplicação, é necessário realizar um cadastro e efetuar login. Apenas assim é possível acessar as demais telas. Podemos cadastrar nossos pacientes e eles irão aparecer listados em tela na ordem de cadastro. Assim como podemos cadastrar pacientes, podemos também, editar ou remover.
+Este projeto foi desenvolvido simulando um sistema para detalhar nossos históricos financeiros. Podemos utilizar o modal de transações para criar nossos históricos e eles aparecerão em tela num formato de lista conforme a ordem de adição.
 
 ## Funções de forma rápida:
 
-* Crie um usuário e faça login na aplicação para conseguir navegar;
-* Cadastre seus pacientes com base no conjunto de informações;
-* Edite seus pacientes conforme o decorrer de cada tratamento;
-* Remova qualquer paciente caso necessário;
+* Clique no botão de transações, preecha o formulário e salve;
+* Veja seus históricos financeiros aparecendo em tela confome salvos;
 
 ### Obs:
 * Toda a aplicação está responsiva e utilizável em qualquer pixel entre telas.
